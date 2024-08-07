@@ -2,9 +2,9 @@
 
 Other parts:
 
-1. [Revers-proxy](https://github.com/baikov/orders-traefik)
-2. [Front](https://github.com/baikov/orders-frontend)
-3. [Back](https://github.com/baikov/orders-backend)
+1. [Revers-proxy](https://github.com/baikov/dev-sop-tr)
+2. [Front](https://github.com/baikov/dev-sop-front)
+3. [Back](https://github.com/baikov/dev-sop-back)
 
 ## Global reverse-proxy for local development
 
